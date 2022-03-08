@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TGDevelops
+- 👋 Hi, I’m Tejesh Gangari
 - 👀 I’m interested in Automating any repetitive tasks
 - 🌱 I’m currently learning applying AI in Test Automation
 - 💞️ I’m looking to collaborate on improving Test Automation
